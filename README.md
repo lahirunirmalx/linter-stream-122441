@@ -1,2 +1,3 @@
 # linter-stream-122441
-WIP module
+
+Service prototype, work in progress.
